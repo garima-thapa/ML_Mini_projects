@@ -31,22 +31,24 @@ This repository contains three small machine learning projects built with Python
 
 Run each project file individually:
 
-car_sales.py
+-car_sales.py
 
-mall_customer.py
+-mall_customer.py
 
-temperature_humidity.py
+-temperature_humidity.py
+
 
 Requirements
-Python 3.x
 
-scikit-learn
+-Python 3.x
 
-matplotlib
+-scikit-learn
 
-numpy
+-matplotlib
 
-pandas
+-numpy
+
+-pandas
 
 
 
