@@ -31,11 +31,11 @@ This repository contains three small machine learning projects built with Python
 
 Run each project file individually:
 
--car_sales.py
+-car_sales.ipynb
 
--mall_customer.py
+-mall_customer.ipynb
 
--temperature_humidity.py
+-temperature_humidity.ipynb
 
 
 Requirements
